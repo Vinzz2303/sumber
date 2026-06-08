@@ -3,7 +3,7 @@ plugins {
     application
 }
 
-group = "uts"
+group = "uas"
 version = "1.0-SNAPSHOT"
 
 repositories {
@@ -15,5 +15,5 @@ dependencies {
 }
 
 application {
-    mainClass.set("uts_00000075344_faturachman_al_kahfi.MainKt")
+    mainClass.set("uas_00000075344_faturachman_al_kahfi.MainKt")
 }

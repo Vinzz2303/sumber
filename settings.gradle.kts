@@ -1,1 +1,1 @@
-rootProject.name = "paws-and-care-uts-00000075344"
+rootProject.name = "paws-and-care-uas-00000075344"
